@@ -1,0 +1,394 @@
+A
+1. adjcent 相邻的
+2. alternately 交替地
+3. ancestor 祖先
+4. ascending 上升
+5. descending 降序
+6. assemble 组合
+7. arithmetic progression 等差数列
+8. geometric progression 等比数列
+9. ascending lexicographical order 词典顺序升序排列
+10. average temperature 顺时针
+11. axis axes 轴
+12. assess 评定，评估
+13. arc 弧
+14. alphabetical order 字典序
+
+B
+1. boundary界限
+2. base 底边；幂的底数
+3. biconnected graph 重连通图
+4. bidirectional 双向的
+5. bipartite graph 二部图
+6. blank string 空白（空格）串
+7. block search 分块查找
+8. Bishop 主教（象）只斜走。格数不限不能越子。每方有两象，黑白格各占1个
+
+C
+1. calculate 计算
+2. Collinear 共线的
+3. Combinatorial Problems 组合问题
+4. consecutive 连续的
+5. Computational Geometry 计算几何
+6. clockwise order 顺时针方向顺序（anticlockwise 逆时针）
+7. Coefficient 系数，率，程度
+8. column major order 以列为主的顺序分配
+9. common superstring 公共父串
+10. complete graph 完全图
+11. composite numbers 合数
+12. concave 凹的
+13. connected component 连通分量（Connected Components 连通分支）
+14. constant n.常数，常量 adj.不变的，始终如一的，持续不断的
+15. coordinates 坐标
+16. counterclockwise 逆时针
+17. critical path 关键路径
+18. Cryptography 密码
+19. Cube root 立方根
+
+D
+1. D is rounded to 2 decimal places D是精确到小数点后2位
+2. decimal n.小数，十进制 adj.小数的，十进制的
+3. deformed 变形的
+4. Denominator 分母
+5. denote 代表; 指代; 预示; 意思是;标志；象征
+6. Deployed 部署
+7. descentdant 子孙
+8. Determinants and Permanents 行列式
+9. diagonal对角（diagonally 斜对角线的）
+10. dial 钟面，拨打
+11. dialing 拨号音 打电话，拨电话号码( dial的现在分词 )
+12. Dictionariy 字典
+13. digraph(directed graph) 有向图
+14. Dimensional 尺寸
+15. disjoint 不相交的
+16. Distinct values 独一无二的值
+17. distinct 独一无二的值
+18. division method 除法
+19. divisor 因子;分母
+20. duplicated 复制；打印的
+21. duplicates 完全一样的东西，复制品( duplicate的名词复数 )
+22. Drawing Graphs Nicely 图的描绘
+
+E
+1. Edge and Vertex Connectivity 割边/割点
+2. Edge Coloring 边染色
+3. embed 插入
+4. enable 启用
+5. Entry 进口
+6. equation 方程式;等式
+7. equivalent equation 同解方程;等价方程
+8. equivalent 相等的，等效的
+9. estimate 预测
+10. Eulerian Cycle / Chinese Postman Euler 回路/中国邮路
+11. evaluate v.评价，估价
+12. evaluated adj.求···的值
+13. even 偶数的
+14. excluding 排除，拒绝( exclude的现在分词); 驱逐;除…外，不包括
+15. execute v.执行，完成
+16. executed 执行的；生效的
+17. exponent 指数；幂
+18. external sort 外部排序
+
+F
+1. Facility 设备，设施
+2. factorial 阶乘; 因子的，阶乘的
+3. Factoring and Primality Testing 因子分解/质数判定
+4. Feedback Edge/Vertex Set 最大无环子图
+5. Finite State Machine Minimization 有穷自动机简化
+6. fixed-aggregate data type 固定聚合数据类型
+7. foggiest idea 概念
+8. folding method 折叠法
+9. follow by 跟随，其后
+10. formula n.公式
+11. fraction 分数;小部分
+
+G
+1. Generating Graphs 图的生成
+2. Generating Partitions 划分生成
+3. Generating Permutations 排列生成
+4. Generating Subsets 子集生成
+5. geometric progression 等比数列
+6. Graph Data Structures 图
+7. Graph Isomorphism 同构
+8. Graph Partition 图的划分
+9. Graph Problems — hard 图论-NP问题
+10. Graph Problems — polynomial 图论-多项式算法
+11. grid 网格；方格；（地图上的）坐标方格
+
+H
+1. Hamiltonian Cycle Hamilton 回路
+2. hash search 散列查找(hash table 散列表)
+3. horizontal or vertical direction 水平和垂直方向
+4. horizontally adv.水平地 horizontal adj.水平的
+5. Huffman tree 哈夫曼树
+
+I
+1. Identifier n.标识符，识别码
+2. immediate predecessor 直接前趋（immediate successor 直接后继）
+3. immediately allocating method 直接定址法
+4. improper fraction 假分数
+5. in the range of 在…范围内
+6. in the shape of a cross 十字形
+7. incident edge 关联边
+8. indegree 入度
+9. indent n.缩进
+10. indentical 相同的
+11. indicating adj.指示的，标志的
+12. inequality 不等式
+13. infinite 无限的
+14. inorder traversal 中序遍历
+15. insertion 插入
+16. Interior 内部，本质
+17. Interpret 解释，执行
+18. intersect v.相交，交叉
+19. intersection 横断，横切; 交叉，相交; 交叉点，交叉线; [数] 交集;
+20. Intersection Detection 碰撞测试
+21. intervals 间隔时间; 间隔( interval的名词复数 ); 区间
+22. Invade 侵略
+23. invalid 无效的
+24. inverted file 倒排文件
+25. irreparably 不能恢复地
+
+J
+1. Job Scheduling 工程安排
+2. justified adj.合理的，合法化的
+
+K
+1. Kd-Trees 线段树
+2. Knapsack Problem 背包问题
+3. Knight 骑士（马）每步棋先横走或直走一格，然后再往外斜走一格；或者先斜走一格，最后再往外横走或竖走一格（即走“日”字）。可以越子，没有象棋中的“蹩马腿”限制。
+
+L
+1. left or right-justified 左对齐or右对齐
+2. lexicographically 字典序
+3. like terms ,similar terms 同类项
+4. linear algebra 线性代数(linear equation线性方程linear linked list 线性链表)
+5. Linear Programming 线性规划
+6. linear structure 线性结构
+7. link field 链域 linked list 链表
+8. literal coefficient 字母系数
+9. logarithm 对数
+10. logical structure 逻辑结构
+11. Longest Common Substring 最长公共子串
+12. loop 环
+
+M
+1. Maintaining Line Arrangements 平面分割
+2. master file 主文件
+3. Matching 匹配
+4. Matrix Multiplication 矩阵乘法
+5. maximum matching 最大匹配
+6. meadow 草坪
+7. mean 平均值
+8. Medial-Axis Transformation 中轴变换
+9. Median and Selection 中位数
+10. memorable 值得纪念的; 显著的，难忘的; 重大的，著名的
+11. merge sort 归并排序
+12. mid-square method 平方取中法
+13. minimal adj.最小限度的
+14. minimal volume最小体积
+15. minimum(cost)spanning tree 最小（代价）生成树
+16. mixed number 带分数
+17. mod v求余 modulus n系数，模数
+18. Motion Planning 运动规划
+19. motion多边形
+20. multi-dimentional array 多维数组
+21. multilinked list 多重链表
+22. multilist file 多重链表文件
+23. multiple adj.多重的多样的，许多的 n倍数
+24. multiplication 乘法
+25. municipal 市政的
+
+N
+1. Nearest Neighbor Search 最近点对查询
+2. negative ，positive 负 ，正
+3. Network Flow 网络流
+4. no special punctuation symbols or spacingrules 无特殊标点符号或间距的规则
+5. non-intersecting 非相交的; 不相交的;
+6. nonlinear structure 非线性结构
+7. notation 标记
+8. numerator分子
+9. numerical coefficient 数字系数
+10. Numerical Problems 数值问题
+
+O
+1. Obesity 肥胖
+2. octal adj.八进制的 binhex 十六进制
+3. odd and even 奇和偶
+4. optimal 最佳的
+5. optimally 最佳
+6. Orbit 轨道
+7. ordered pair 有序对(ordered tree 有序树)
+8. Ordinal 有次序的
+9. original equation 原方程
+10. origin 原点
+11. orthogonal list 十字链表
+12. Out degree 出度
+13. Over brim 溢出
+14. overflow 上溢
+15. Overlapping 覆盖
+16. ox 牛
+
+P
+1. palindrome 回文
+2. palindromic 回文的
+3. parallel 平行的
+4. parity property 奇偶性
+5. partical order 偏序
+6. Pawn 禁卫军（兵）只能向前直走，每次只能走一格。但走第一步时，可以走一格或两格。兵的吃子方法与行棋方向不一样，它是直走斜吃，即如果兵的斜进一格内有对方棋子，就可以吃掉它而占据该格
+7. phyical structure 物理结构
+8. Pipe 管道
+9. Planarity Detection and Embedding 平面性检测和嵌入
+10. ploygon-shaped faces/ polygon 多边形
+11. ployphase merging sort 多步归并排序
+12. Point Location 位置查询
+13. pointer field 指针域
+14. Polygon Partitioning 多边形分割
+15. positive and negative integers 正整数和负整数
+16. postorder traversal 后序遍历
+17. precision n.精密，精确度精确
+18. predecessor 前趋
+19. prefix 前缀
+20. preorder traversal 先序遍历
+21. prime 质数
+22. Priority Queues 优先队列
+23. proceed 运行
+24. process v.加工，处理 n.程序，进程
+25. process a sequence of n distinct integers 处理一串n个不同的整数
+26. profile 轮廓
+27. proper fraction 真分数
+28. proportional 成比例的
+29. Protrusions 凸起物
+30. Pyramid 金字塔，渐增
+
+Q
+1. quadrant 象限，四分之一圆
+2. Queen 皇后 横、直、斜都可以走，步数不受限制，但不能越子
+3. quotient 商
+
+R
+1. radix sort 基数排序
+2. Random Number Generation 随机数生成
+3. random number method 随机数法
+4. Range Search 范围查询
+5. rat, ox, tiger, rabbit, dragon, snake,horse, sheep, monkey, rooster, dog pig十二生肖
+6. rate of convergence 收敛速度
+7. rear 队尾
+8. rectangular 矩形的，成直角的
+9. Relates 叙述，讲述
+10. replacement selection sort 置换选择排序
+11. respectively adj各自的，分别的，独自的
+12. robustness 鲁棒性
+13. Rook 战车 横竖均可以走，步数不受限，不能斜走。除王车易位外不能越子。
+14. rooster鸡
+15. root sign 根号
+16. round()四舍五入（当取舍位为5时，若取舍位数前的小数为奇数则直接舍弃，若为偶数则向上取舍）
+17. rounded to n decimal places 精确到小数点后n位
+18. row major order 以行为主的顺序分配
+19. Rows and columns 行与列
+
+S
+1. Satisfiability 可满足性
+2. scenario 方案；(可能发生的)情况；
+3. search (sequential search) 线性查找（顺序查找）linear
+4. searching 查找，线索
+5. segment 段;分割
+6. segment 环节; 部分;分段; 分割，划分;
+7. selection sort 选择排序
+8. semicolon n.分号
+9. sequence n.顺序，序列，连续
+10. serial 连续的; 连载的; 顺序排列的;
+11. series 连续的同类事物，系列
+12. series 系列
+13. Set and String Problems 集合与串的问题
+14. Set Cover 集合覆盖
+15. Set Data Structures 集合
+16. Set Packing 集合配置
+17. Shape Similarity 相似多边形
+18. Shell 贝壳，脱壳
+19. shelter 遮蔽物
+20. Shortest Common Superstring 最短公共父串
+21. Shortest Path 最短路径
+22. simple cycle 简单回路（simple path 简单路径）
+23. Simplifying Polygons 多边形化简
+24. simultaneously 同时的
+25. single linked list 单链表
+26. sink 汇点
+27. solution n.解决方案
+28. Solving Linear Equations 线性方程组
+29. source 源点
+30. spanning forest 生成森林
+31. spanning tree 生成树
+32. spares graph 稀疏图
+33. sparse matrix 稀疏矩阵
+34. specify 指定
+35. square root平方根
+36. square 平方，正方形，广场，方格
+37. Squared 平方
+38. Stack Overflow 堆栈溢出通常是您的程序陷入了无穷递归，或递归嵌套层数过多。
+39. statistical 统计的
+40. Steiner Tree Steiner 树
+41. stem 词根
+42. String Matching 模式匹配
+43. strongly connected graph 强连通图
+44. subgraph 子图
+45. subsequent adj.随后的，后来的
+46. substring 子串（subtree 子树）
+47. successor 后继
+48. sufficient 充足的；足够的；
+49. suffix 后缀
+50. Supervisor 监督人
+51. symmetric matrix 对称矩阵
+
+T
+1. tail pointer 尾指针
+2. terminal node 终端结点
+3. Text Compression 压缩
+4. threaded binary tree 线索二叉树
+5. times 乘
+6. Topological Sorting 拓扑排序
+7. toss 扔（硬币）
+8. Transitive Closure and Reduction 传递闭包
+9. transposed matrix 转置矩阵
+10. traversal of tree 树的遍历
+11. traversing binary tree 遍历二叉树
+12. traversing graph 遍历图
+13. tree index 树型索引
+14. triangle n.三角形
+15. triangle inequality 三角不等式
+16. Triangulation 三角剖分
+17. triple 三倍的，三方的，三部分的; 增至三倍;三倍的数[量]; 三个一组;
+18. Tromino 三格骨牌
+19. Troop 军队，组群
+20. truangular matrix 三角矩阵
+21. two adjacent sequence elements 两个相邻的元素串
+22. two-dimensional array二维数组
+23. two-dimensional 维数
+
+U
+1. ultimate 基本的，终极的
+2. unconnected graph 非连通图
+3. underflow 下溢
+4. undigraph(undirected graph) 无向图
+5. union 并集
+6. unique identifier唯一的标识符
+7. unordered pair 无序对（unordered tree 无序树）
+8. uppercase 大写字母盘;以大写字母印刷;大写字母的
+9. uppercase（Capital） 大写字母（Lowercase letters小写字母）
+
+V
+1. variable-aggregate data type 可变聚合数据类型
+2. variable 变量
+3. Vertex Coloring 点染色（Vertex Cover 点覆盖）
+4. vertex n.顶点，最高点
+5. vertical n.垂直线，垂直面 adj.垂直的，顶点的
+6. volume n.数量，容量
+7. Voronoi Diagrams Voronoi 图
+8. vulnerable 容易受到攻击的
+
+W
+1. weakly connected graph 弱连通图
+2. weight 权
+3. weighted average 加权平均值
+4. weighted graph 加权图
+5. wooden planks 木板

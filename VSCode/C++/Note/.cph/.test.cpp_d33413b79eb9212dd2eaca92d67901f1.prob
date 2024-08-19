@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/Users/jingzeng/Desktop/VSCode/C++/Note/test.cpp","tests":[{"id":1722837496523,"input":"123 100","output":"223"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jingzeng/Desktop/VSCode/C++/Note/test.cpp","group":"local","local":true}
