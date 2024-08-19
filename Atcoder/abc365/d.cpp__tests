@@ -1,0 +1,51 @@
+[
+	{
+		"correct_answers":
+		[
+			"5"
+		],
+		"test": "6\nPRSSRS\n"
+	},
+	{
+		"correct_answers":
+		[
+			"5"
+		],
+		"test": "10\nSSSSSSSSSS\n"
+	},
+	{
+		"correct_answers":
+		[
+			"18"
+		],
+		"test": "24\nSPRPSRRRRRPPRPRPSSRSPRSS\n"
+	},
+	{
+		"correct_answers":
+		[
+			"3"
+		],
+		"test": "5\nPSSPP\n"
+	},
+	{
+		"correct_answers":
+		[
+			"3"
+		],
+		"test": "5\nSSPPP\n"
+	},
+	{
+		"correct_answers":
+		[
+			"3"
+		],
+		"test": "6\nPSSPPP\n"
+	},
+	{
+		"correct_answers":
+		[
+			"2"
+		],
+		"test": "3\nRRS\n"
+	}
+]
