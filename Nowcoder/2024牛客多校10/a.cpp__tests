@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"1"
+		],
+		"test": "YYYY-\n"
+	},
+	{
+		"correct_answers":
+		[
+			"-1"
+		],
+		"test": "YNNY-\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0"
+		],
+		"test": "Y----\n"
+	}
+]

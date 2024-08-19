@@ -1,0 +1,10 @@
+[
+	{
+		"correct_answers":
+		[
+			"YES\nxabax\nYES\nabcde\nYES\nayyyx\nNO\nNO",
+			"YES\nxbxaa\nYES\nabcde\nYES\nayyax\nNO\nNO"
+		],
+		"test": "5\n?????\nxbx\nab??e\nabcde\nayy?x\na\nab??e\ndac\npaiu\nmom\n"
+	}
+]

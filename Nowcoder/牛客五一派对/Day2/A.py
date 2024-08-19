@@ -1,0 +1,5 @@
+# print(eval(input().replace("(", "**(")))
+# print(eval(input()))
+a = input()
+b = input()
+print(int(a) - int(b))
